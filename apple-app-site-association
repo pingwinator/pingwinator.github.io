@@ -1,0 +1,24 @@
+{
+"activitycontinuation": {
+    "apps": [
+      "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt"
+    ]
+  }, 
+  "applinks": {
+    "apps": [], 
+    "details": [
+      {
+        "appID": "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt", 
+        "paths": [
+          "/item/*", 
+          "/list/*" 
+        ]
+      }
+    ]
+  }, 
+  "webcredentials": {
+    "apps": [
+      "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt"
+    ]
+  }
+}
