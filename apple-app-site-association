@@ -91,7 +91,7 @@
           "/product/*",
           "/kleiderschrank/*",
           "/closet/*",
-          "/wardrobe/",
+          "/wardrobe/*",
           "/mein-konto/optin/*",
           "/my-account/optin/*"
         ]
