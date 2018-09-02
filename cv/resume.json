@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Vasyl Liutikov",
+    "label": "Senior iOS Developer at Mädchenflohmarkt GmbH",
+    "picture": "",
+    "email": "vasyl.liutikov@gmail.com",
+    "phone": "",
+    "website": "https://vasyl.app",
+    "summary": "I'm a problems solver. I was involved in last 3 projects as an expert who can solve their tech debt.  Strong knowledge: Objective-C 2.0 (Cocoa, Cocoa Touch) and Swift 3.1+ 8+ years of experience with iOS 11+ years of software engineering experience  Experience in mobile development (iOS)  Some experience in Mac OS X development Experience in DevOps (CI, writing mobile build system) Experience of work with next IDE: XCode, AppCode  Specialties: Design and development of mobile software.  Upper-Intermediate English, IELTS 6.0",
+    "location": {
+      "address": "",
+      "postalCode": "70180",
+      "city": "Stuttgart",
+      "countryCode": "DE",
+      "region": "Baden-Württemberg"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "pingwinator",
+        "url": "https://twitter.com/pingwinator"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mädchenflohmarkt GmbH",
+      "position": "Senior iOS Developer",
+      "website": "https://maedchenflohmarkt.de/",
+      "startDate": "2018-02-01",
+      "endDate": "",
+      "summary": "Returned app to life after 2 years background support from outsourcing team.",
+      "highlights": [
+        "Removed deprecated API and updated to modern Obj-C. Was fixed 249 warnings.",
+        "Reduced build time by 40%.",
+        "Increased app rating from 3.2 to 4.6 in the German Apple App Store.",
+        "Started a huge work with rewriting the app to modern UI/UX.",
+        "Was paid the solid part of tech debt.",
+        "And many more nice changes about that I can't say..."
+      ]
+    },
+    {
+      "company": "JimDrive",
+      "position": "Senior iOS Developer",
+      "website": "https://jimdrive.com",
+      "startDate": "2017-02-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Development and optimization JimDrive iOS application.",
+        "Work with design team members to implement user interface and experience.",
+        "Work with backend team.",
+        "Development internal libraries."
+      ]
+    },
+    {
+      "company": "Drooms",
+      "position": "Senior iOS Developer",
+      "website": "https://drooms.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-12-01",
+      "summary": "",
+      "highlights": [
+        "Development and support Drooms Core iOS application.",
+        "Work with design team members to implement user interface and experience.",
+        "Work with backend team"
+      ]
+    },
+    {
+      "company": "Postindustria",
+      "position": "Senior iOS Developer",
+      "website": "",
+      "startDate": "2014-11-01",
+      "endDate": "2016-06-01",
+      "summary": "",
+      "highlights": [
+        "Development and support iOS applications.",
+        "Collaborate with clients to implement applications.",
+        "Mentor junior members.",
+        "Work with design team members to implement user interface and experience.",
+        "Support buildservers infrastructure."
+      ]
+    },
+    {
+      "company": "Postindustria",
+      "position": "iOS Developer",
+      "website": "",
+      "startDate": "2010-09-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": [
+        "Development and support iOS applications.",
+        "Collaborate with clients to implement applications.",
+        "Work with design team members to implement user interface and experience. - Support buildservers infrastructure"
+      ]
+    },
+    {
+      "company": "Research Institute of Information Technologies",
+      "position": "Junior Researcher",
+      "website": "http://www.kspu.edu/About/DepartmentAndServices/DSAICI.aspx?lang=en",
+      "startDate": "2009-09-01",
+      "endDate": "2010-09-01",
+      "summary": "",
+      "highlights": [
+        "Development of programming components using technologies ActiveX, MFC.",
+        "Design, documenting program systems, analysis and management of requirements.",
+        "Support local infrastructure.",
+        "Algebraic programming (APS) for \"Analytical Geometry\"",
+        "Developing prototypes"
+      ]
+    },
+    {
+      "company": "Kherson State University",
+      "position": "Assistant of the Chair of Informatics",
+      "website": "http://www.kspu.edu/About/Faculty/FPhysMathemInformatics/ChairInformatics.aspx?lang=en",
+      "startDate": "2009-09-01",
+      "endDate": "2010-09-01",
+      "summary": "Workshops with students (practical lessons) on OOP, data protection and hight load systems",
+      "highlights": []
+    },
+    {
+      "company": "Kherson State University",
+      "position": "Specialist",
+      "website": "http://www.kspu.edu/About/DepartmentAndServices/DSAICI.aspx?lang=en",
+      "startDate": "2007-08-01",
+      "endDate": "2009-01-01",
+      "summary": "",
+      "highlights": [
+        "Development of programming components using technologies ActiveX, MFC.",
+        "Design, documenting program systems, analysis and management of requirements.",
+        "Support local infrastructure."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kherson State University",
+      "area": "Computer science",
+      "studyType": "Master's degree",
+      "startDate": "2008-09-01",
+      "endDate": "2009-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Kherson State University",
+      "area": "Computer science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2005-09-01",
+      "endDate": "2008-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Realization Of Many-Sorted Algebra Calculations",
+      "publisher": "Proceedings of International Conference “The Eleventh Allukrainian (Sixth International) Student Scientific Conference Is On The Applied Mathematics and Informatics” (EASISSCAMI’08)",
+      "releaseDate": "2008-04-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Creation Devices With LPT Interface",
+      "publisher": "PC World UA",
+      "releaseDate": "2005-02-01",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": [
+        "Objective-C",
+        "Xcode",
+        "Swift",
+        "CocoaPods",
+        "SwiftLint"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "XML",
+        "JSON",
+        "REST",
+        "Git",
+        "Jira",
+        "Asana",
+        "GitHub",
+        "OOP",
+        "Design Patterns"
+      ]
+    },
+    {
+      "name": "Continuous delivery",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Gradle",
+        "Ruby",
+        "DevOps",
+        "CD/CI",
+        "Travis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
