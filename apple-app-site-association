@@ -1,30 +1,106 @@
 {
-"activitycontinuation": {
-    "apps": [
-      "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt"
-    ]
-  }, 
-  "applinks": {
-    "apps": [], 
-    "details": [
-      {
-        "appID": "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt", 
-        "paths": [
-          "/item/*", 
-          "/list/*" 
-        ]
-      }
-    ]
-  }, 
-  "webcredentials": {
-    "apps": [
-      "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt"
-    ]
-  },
   "activitycontinuation": {
     "apps": [
       "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt"
     ]
+  },
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appID": "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt",
+        "paths": [
+          "/must-haves.html",
+          "/indispensables.html",
+          "/must-have.html",
+          "/imprescindibles.html",
+          "/alle-ansehen.html",
+          "/view-all.html",
+          "/tous-les-produits.html",
+          "/tutti-i-prodotti.html",
+          "/alle-producten.html",
+          "/todos-los-productos.html",
+          "/neue-artikel.html",
+          "/new-products.html",
+          "/produits-nouveaux.html",
+          "/nuovi-prodotti.html",
+          "/nieuwe-producten.html",
+          "/nuevos-productos.html",
+          "/concierge.html",
+          "/premium.html",
+          "/suche.html",
+          "/search.html",
+          "/recherche.html",
+          "/ricerca.html",
+          "/zoeken.html",
+          "/buscar.html",
+          "/mode.html",
+          "/fashion.html",
+          "/moda.html",
+          "/mode/*",
+          "/fashion/*",
+          "/moda/*",
+          "/accessoires.html",
+          "/accessories.html",
+          "/accessori.html",
+          "/accesorios.html",
+          "/accessoires/*",
+          "/accessories/*",
+          "/accessori/*",
+          "/accesorios/*",
+          "/taschen.html",
+          "/bags.html",
+          "/sacs.html",
+          "/borse.html",
+          "/tassen.html",
+          "/bolsas.html",
+          "/taschen/*",
+          "/bags/*",
+          "/sacs/*",
+          "/borse/*",
+          "/tassen/*",
+          "/bolsas/*",
+          "/schmuck.html",
+          "/jewelry.html",
+          "/bijoux.html",
+          "/gioielli.html",
+          "/sieraden.html",
+          "/joyeria.html",
+          "/schmuck/*",
+          "/jewelry/*",
+          "/bijoux/*",
+          "/gioielli/*",
+          "/sieraden/*",
+          "/joyeria/*",
+          "/schuhe.html",
+          "/shoes.html",
+          "/chaussures.html",
+          "/scarpe.html",
+          "/schoenen.html",
+          "/zapatos.html",
+          "/schuhe/*",
+          "/shoes/*",
+          "/chaussures/*",
+          "/scarpe/*",
+          "/schoenen/*",
+          "/zapatos/*",
+          "/brand/*",
+          "/produkt/*",
+          "/product/*",
+          "/kleiderschrank/*",
+          "/closet/*",
+          "/wardrobe/*",
+          "/mein-konto/optin/*",
+          "/my-account/optin/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "A62944HA39.de.maedchenflohmarkt.Maedchenflohmarkt"
+    ]
   }
-
 }
